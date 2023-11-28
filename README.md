@@ -1,0 +1,1 @@
+![Horizontal Caption](./Images/example.webp)
